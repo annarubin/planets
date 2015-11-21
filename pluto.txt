@@ -1,3 +1,2 @@
 pluto is a dwarf planet
-
-added a second line from work
+the correct line we want
